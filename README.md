@@ -68,4 +68,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you encounter any issues or have suggestions, please open an issue in the GitHub repository. 
 
 If you like this extension, feel free to send me a dollar or two on "Buy me a coffee" at https://www.buymeacoffee.com/zeevabrams
+or email me at zabrams@gmail.com
 
