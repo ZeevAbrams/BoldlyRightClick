@@ -13,7 +13,7 @@ A Chrome extension that allows you to format text as bold, italic, or both in an
 ## Installation
 
 ### From Chrome Web Store (Coming Soon)
-*(Link will be added once the extension is published)*
+https://chromewebstore.google.com/detail/boldly-right-click/dclpeeibfgohmpofcmgpiimglnbpjmef?authuser=0&hl=en
 
 ### Manual Installation
 1. Download or clone this repository
